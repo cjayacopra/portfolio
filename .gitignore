@@ -29,3 +29,8 @@ yarn-error.log
 /.gemini
 /.github
 WARP.md
+
+**/caddy
+frankenphp
+frankenphp-worker.php
+/deploy
